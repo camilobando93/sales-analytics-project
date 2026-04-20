@@ -1,0 +1,6 @@
+-- SCHEMA: stg
+
+-- DROP SCHEMA IF EXISTS stg ;
+
+CREATE SCHEMA IF NOT EXISTS stg
+    

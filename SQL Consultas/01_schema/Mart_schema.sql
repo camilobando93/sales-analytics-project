@@ -1,0 +1,6 @@
+-- SCHEMA: mart
+
+-- DROP SCHEMA IF EXISTS mart ;
+
+CREATE SCHEMA IF NOT EXISTS mart
+    
